@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All the places you'll go
+title: All the places you'll go!
 date: 2017-09-12 13:32:20 +0300
 description: Traveling the world in search of adventure. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
