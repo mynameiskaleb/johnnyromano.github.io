@@ -931,7 +931,7 @@ table tfoot td {
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
-  overflow: hidden;
+  overflow: auto;
   background-color: #333030;
 }
 
