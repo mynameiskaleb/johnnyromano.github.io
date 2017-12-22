@@ -2,7 +2,7 @@
 layout: post
 title: All the places you'll go
 date: 2017-09-12 13:32:20 +0300
-description: Traveling the work in search of adventure. # Add post description (optional)
+description: Traveling the world in search of adventure. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 tags: [Hiking, Okinawa, USMC]
 ---
@@ -11,8 +11,8 @@ Okinawa Japan. There's a reason it's a blue zone - home to the happiest people
 expected to live the longest.
 
 
-## Running
-Running's definitely a love hate relationship.
+### Running
+For me, running definitely started out as a love hate relationship.
 
 ![Okinawa Japan Beach]({{site.baseurl}}/assets/img/okinawa.jpg)
 
