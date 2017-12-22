@@ -926,7 +926,7 @@ table tfoot td {
 }
 
 .about .cover-author-image {
-  width: 75px;
+  width: 100px;
   height: 100px;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
@@ -936,7 +936,7 @@ table tfoot td {
 }
 
 .about img {
-  width: 100%;
+  width: 90%;
   height: 100%;
   -webkit-border-radius: 50%;
           border-radius: 50%;
