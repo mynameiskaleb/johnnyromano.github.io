@@ -16,7 +16,7 @@ You could go through and manually edit all the entries. Or you could use Python.
 
 Lets fix it!
 ---
-<img src="/assets/img/python-regex-name.png" width="200">
+<img src="/assets/img/python-regex-names.png" width="200">
 
 ![Regex Names File]({{site.baseurl}}/assets/img/python-regex-names.png)  
 ![Regex Cleaned Names Output]({{site.baseurl}}/assets/img/python-regex-names-output.png)  
