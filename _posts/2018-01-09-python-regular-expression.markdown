@@ -3,7 +3,7 @@ layout: post
 title: Python, Regular Expressions.
 date: 2018-01-09 10:32:20 -0800
 description: How to use Python Regular Expressions. # Add post description (optional)
-img: python.png # Add image post (optional)
+img: python.jpg # Add image post (optional)
 tags: [Python, TECH, data]
 ---
 ## Regular expressions are made for processing text.
@@ -16,5 +16,6 @@ You could go through and manually edit all the entries. Or you could use Python.
 
 Lets fix it!
 ---
-![Regex Names File]({{site.baseurl}}/assets/img/python-regex-names.png)
-![Regex Cleaned Names Output]({{site.baseurl}}/assets/img/python-regex-names-output.png)
+
+![Regex Names File]({{site.baseurl}}/assets/img/python-regex-names.png)  
+![Regex Cleaned Names Output]({{site.baseurl}}/assets/img/python-regex-names-output.png)  
