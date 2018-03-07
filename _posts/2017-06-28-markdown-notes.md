@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lets build IoT environment sensors!
+title: Markdown Basics ref notes.
 date: 2017-03-12 08:32:20 -0800
-description: Building a network or environment sensors.
+description: Markdown reference notes.
 img: markdown.jpg
 tags: [Markdown]
 ---
