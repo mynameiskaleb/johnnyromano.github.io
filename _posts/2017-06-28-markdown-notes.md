@@ -132,6 +132,7 @@ let exampleFunction = () =>{
 }
 
 ```
+
 ```python
 def user_status():
   user = 'johnny'
