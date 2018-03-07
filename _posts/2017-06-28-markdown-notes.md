@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown Basics ref notes.
-date: 2017-03-12 08:32:20 -0800
+date: 2017-06-28 14:32:20 -0800
 description: Markdown reference notes.
 img: markdown.jpg
 tags: [Markdown]
