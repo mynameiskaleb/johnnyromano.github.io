@@ -6,7 +6,8 @@ description: Markdown reference notes.
 img: markdown.jpg
 tags: [Markdown]
 ---
-# Markdown Basics ref notes
+These are my Markdown Basics reference notes. Markdown was designed to be an
+easy to write plain text formatting syntax for writers, inventors, and bloggers.
 
 ## Headlines, Paragraphs, and Basic Formatting
 
