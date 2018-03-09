@@ -78,7 +78,7 @@ A blockquote sets text apart from the rest of the document. It indicates that th
 
 You format a blockquote using the greater than symbol. If you want a blockquote to span multiple paragraphs, add the greater than symbol to the line between paragraphs too.
 ```python
->hellow how are you today?
+>hello how are you today?
 >
 ```
 output:
