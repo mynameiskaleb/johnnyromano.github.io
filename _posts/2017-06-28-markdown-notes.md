@@ -52,7 +52,7 @@ You can use \**asterisk*\* or \__underscore_\_
 ```python
 *Great Race*
 ```
-output:<i>>>>Great Race</i>
+output: <i>>>>Great Race</i>
 
 
 ### Bolding
@@ -61,7 +61,7 @@ You can use double **\*\*asterisk\*\*** or double \____underscore\____
 ```python
 **HUGE clouds**
 ```
-output:<strong>>>>HUGE clouds</strong>
+output: <strong>>>>HUGE clouds</strong>
 
 ### Italics and Bolding
 
@@ -69,7 +69,7 @@ is done with ***triple asterisk***
 ```python
 ***Double Rainbow!***
 ```
-output:<i><strong>>>>Double Rainbow!</strong></i>
+output: <i><strong>>>>Double Rainbow!</strong></i>
 
 
 ### Blockquotes
@@ -90,6 +90,7 @@ output:
 ---
 ```
 output:
+
 ---
 
 ___
@@ -171,9 +172,10 @@ output:
 - [ ] eat the pancakes
 ```
 output:
-- [x] buy the eggs
+`- [x] buy the eggs
 - [x] buy the pancake mix
 - [ ] eat the pancakes
+`
 ---
 ## Fenced Code Blocks
 
@@ -202,7 +204,7 @@ def user_status():
 
 ```
 output:
-`>>> The user johnny is working.`
+`The user johnny is working.`
 
 ---
 
