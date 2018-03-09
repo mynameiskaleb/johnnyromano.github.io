@@ -253,10 +253,10 @@ Type a label for the image in square brackets. On the Web we call this alt text,
 
 ![Kittens](https://placekitten.com/250/400 "Whaaa chu lookin at")
 ```
-That creates a link for the kitten image, but I want to display the image. All I have to do is add an exclamation mark in front of the square brackets.
+That creates a link for the kitten image, but I want to display the image. All I have to do is add an exclamation mark in front of the square brackets.  
 ![Kittens](https://placekitten.com/250/400)
 
-Images can have titles like links too. You add them the same way. After the image url, add a space and put the title in quotes.
+Images can have titles like links too. You add them the same way. After the image url, add a space and put the title in quotes.  
 ![Kittens](https://placekitten.com/250/400 "Whaaa chu lookin at")
 
 ---
