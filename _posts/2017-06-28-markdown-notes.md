@@ -121,6 +121,14 @@ output:
 ### Bulleted Lists
 
 Bulleted lists work like numbered lists, but you use the asterisk character, a space, and no period. You can nest bulleted items too. We just indent our item below another item like we did with our numbered list.
+```python
+* Item
+* Another Item
+  * Add two spaces of a tab
+    * Yet another type of Bullet
+
+```
+output:
 
 * Item
 * Another Item
@@ -130,6 +138,20 @@ Bulleted lists work like numbered lists, but you use the asterisk character, a s
 ### Mixed Lists
 
 You can mix the two list styles too. Just use the numbers or asterisks where you want them.
+```python
+1. Item One
+  * Nested Item
+  * Nested Item
+2. Item two
+  * Nested Item
+  * Nested Item
+    1. Deep Nested Item One
+    2. Deep Nested Item two
+      * Super Deep Nested Item
+      * Super Deep Nested Item
+
+```
+output:
 
 1. Item One
   * Nested Item
@@ -143,11 +165,15 @@ You can mix the two list styles too. Just use the numbers or asterisks where you
       * Super Deep Nested Item
 
 ### Task Lists
-
+```python
 - [x] buy the eggs
 - [x] buy the pancake mix
 - [ ] eat the pancakes
-
+```
+output:
+- [x] buy the eggs
+- [x] buy the pancake mix
+- [ ] eat the pancakes
 ---
 ## Fenced Code Blocks
 
@@ -181,6 +207,14 @@ output:
 ---
 
 ## Tables
+```python
+Name | Vehicle Type
+-----|-------------
+Dave | Truck
+Steve | Car
+Susan | Airplane
+```
+output:
 
 Name | Vehicle Type
 -----|-------------
@@ -189,18 +223,17 @@ Steve | Car
 Susan | Airplane
 
 ---
-
-
-## EMOJI
-[EMOJI Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/ "A link to a ton of EMJOI")
-
-:+1: :camel: :tada: :rocket: :metal: :octocat:
-:sparkles: :collision: :bug: :honeybee: :seedling:
-
-
----
 ## Links
+```python
+[visit jpromano.com](http://jpromano.com)
 
+[add tool tip for weblink](http://jpromano.com "Amazing Guy")
+
+[jpromano.com][1]
+
+[1]: http://jpromano.com "Reference link to the amazing johnny romano"
+```
+output:
 [visit jpromano.com](http://jpromano.com)
 
 [add tool tip for weblink](http://jpromano.com "Amazing Guy")
@@ -214,6 +247,9 @@ Susan | Airplane
 Type a label for the image in square brackets. On the Web we call this alt text, because it will be displayed as an alternate if the image cannot be shown for any reason. I have an image of kittens, so I’ll write, “Kittens” in square brackets and follow that with the url for the image in parenthesis.
 
 That creates a link for the kitten image, but I want to display the image. All I have to do is add an exclamation mark in front of the square brackets.
+```python
+![Kittens](https://placekitten.com/250/400)
+```
 
 ![Kittens](https://placekitten.com/250/400)
 What if I want the image to link to something too? Just add square brackets around your whole image code. At the end of the new square brackets, put the link url in parenthesis.
