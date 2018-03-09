@@ -248,15 +248,13 @@ output:
 ## Images
 Type a label for the image in square brackets. On the Web we call this alt text, because it will be displayed as an alternate if the image cannot be shown for any reason. I have an image of kittens, so I’ll write, “Kittens” in square brackets and follow that with the url for the image in parenthesis.
 
-That creates a link for the kitten image, but I want to display the image. All I have to do is add an exclamation mark in front of the square brackets.
 ```python
 ![Kittens](https://placekitten.com/250/400)
+
+![Kittens](https://placekitten.com/250/400 "Whaaa chu lookin at")
 ```
-
+That creates a link for the kitten image, but I want to display the image. All I have to do is add an exclamation mark in front of the square brackets.
 ![Kittens](https://placekitten.com/250/400)
-What if I want the image to link to something too? Just add square brackets around your whole image code. At the end of the new square brackets, put the link url in parenthesis.
-
-[![Kittens](https://placekitten.com/300/400)](https://placekitten.com)
 
 Images can have titles like links too. You add them the same way. After the image url, add a space and put the title in quotes.
 ![Kittens](https://placekitten.com/250/400 "Whaaa chu lookin at")
