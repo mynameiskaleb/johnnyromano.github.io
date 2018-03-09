@@ -9,11 +9,18 @@ tags: [Markdown]
 These are my Markdown Basics reference notes. Markdown was designed to be an
 easy to write plain text formatting syntax for writers, inventors, and bloggers.
 
+<p>Here's a link to download this example. <a href="https://github.com/johnnyromano/Markdown" alt="Markdown notes file on Johnny's Github">github.Markdown</a></p>
+---
 ## Headlines, Paragraphs, and Basic Formatting
 
 ### Headlines
 
 Type a single hash (AKA pound symbol) and a space to create the largest or first-level heading. A second-level heading uses two hashes next to each other followed by a space and text. The rest of the headline levels just add another hash.
+
+```python
+### Headline level 3
+
+```
 
 #### Heading Level 4
 
