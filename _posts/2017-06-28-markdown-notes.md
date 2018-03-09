@@ -112,11 +112,11 @@ You create numbered lists like you do in other writing programs. Type the number
 ```
 output:
 
-1. Item 1
-  1. Nested Item 1
-  2. Nested Item 2
-    1. Nested even further Item2
-2. Item 2
+1. Item 1  
+  1. Nested Item 1  
+  2. Nested Item 2  
+    1. Nested even further Item2  
+2. Item 2  
 
 ### Bulleted Lists
 
