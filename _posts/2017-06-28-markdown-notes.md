@@ -172,10 +172,10 @@ output:
 - [ ] eat the pancakes
 ```
 output:
-`- [x] buy the eggs
+- [x] buy the eggs
 - [x] buy the pancake mix
 - [ ] eat the pancakes
-`
+
 ---
 ## Fenced Code Blocks
 
