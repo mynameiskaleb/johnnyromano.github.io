@@ -48,10 +48,13 @@ just like this
 #### Italics
 
 Emphasis can be added with either the asterisk or the underscore characters.
-```python
-*Great Race*
-```
 You can use \**asterisk*\* or \__underscore_\_
+```python
+**Great Race**
+```
+output:
+<i>'>>>Great Race'</i>
+
 
 
 ### Bolding
