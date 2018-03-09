@@ -38,17 +38,21 @@ Where you see empty space between blocks of text in your Markdown document, you 
 
 #### Line Breaks
 
-To create a line break after a line
-but not a new paragraph you add two spaces
-to the end of a Line
-just like this
+To create a line break after a line  
+but not a new paragraph you add two spaces  
+to the end of a Line  
+just like this  
 
 ### Emphasis and Bolding
 
 #### Italics
 
 Emphasis can be added with either the asterisk or the underscore characters.
+```python
+*Great Race*
+```
 You can use \**asterisk*\* or \__underscore_\_
+
 
 ### Bolding
 
