@@ -50,32 +50,46 @@ just like this
 Emphasis can be added with either the asterisk or the underscore characters.
 You can use \**asterisk*\* or \__underscore_\_
 ```python
-**Great Race**
+*Great Race*
 ```
-output:
-<i>'>>>Great Race'</i>
-
+output:<i>>>>Great Race</i>
 
 
 ### Bolding
 
 You can use double **\*\*asterisk\*\*** or double \____underscore\____
+```python
+**HUGE clouds**
+```
+output:<strong>>>>HUGE clouds</strong>
 
 ### Italics and Bolding
 
 is done with ***triple asterisk***
+```python
+***Double Rainbow!***
+```
+output:<i><strong>>>>Double Rainbow!</strong></i>
+
 
 ### Blockquotes
 
 A blockquote sets text apart from the rest of the document. It indicates that the text is quoted from another source.
 
 You format a blockquote using the greater than symbol. If you want a blockquote to span multiple paragraphs, add the greater than symbol to the line between paragraphs too.
-
+```python
+>hellow how are you today?
+>
+```
+output:
 >hello how are you today?
 >
 
 ### Horizontal Rule
-
+```python
+---
+```
+output:
 ---
 
 ___
@@ -89,6 +103,14 @@ You can write both numbered and bulleted lists with Markdown.
 ### Numbered Lists
 
 You create numbered lists like you do in other writing programs. Type the number, a period, a space, and the item label. To nest an item, indent it with a tab or at least two spaces beneath the item above it.
+```python
+1. Item 1
+  1. Nested Item 1
+  2. Nested Item 2
+    1. Nested even further Item2
+2. Item 2
+```
+output:
 
 1. Item 1
   1. Nested Item 1
