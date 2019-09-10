@@ -9,6 +9,6 @@ tags: [5G, mmWave, RF, Los Angeles]
 <!-- <img src='{{site.baseurl}}/assets/img/file.jpg' alt='file desc'> -->
 Started working at a mmWave manufacturer. This means I'm learning more about physics focusing on electromagnetics, thermodynamics, and wide range of phenomena that impact Radio Frequency Communication devices. And it's awesome!
 
-## So now what Millimeter Wave (mmWave)
-Think of you're computer of phone WiFi the radio frequency and that will be either 2.4Ghz or 5Ghz. The easiest way I've found that it is to understand mmWave is to undersatnd it's use through application.
+## So now what's Millimeter Wave (mmWave)
+I'd have to say the most generally relateable example it of a computer of phone connecting to WiFi. That device has a The radio frequency and that will be either 2.4Ghz or 5Ghz. The easiest way I've found that it is to understand mmWave is to undersatnd it's use through application.
 5G, automotive radar, satellite 
