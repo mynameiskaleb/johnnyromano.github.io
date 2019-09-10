@@ -15,10 +15,9 @@ Electromagnetic waves propagate through free space at specific spectrum ranges a
 > Oh and yes, microwave like the oven. In 1945, a radar engineer at Raytheon working on a military project discovered a melted chocolate bar in his pocket after exposure to the radiation. They determined microwave ovens heat food by passing non-ionizing electromagnetic radiation through it. Ionizing radiation (Gamma rays, X-rays) which can cause harmful effects like cancer are much smaller 2,400,000 Mhz and on the opposite end of the spectrum.
 
 #### Microwave to mmWave - it's the waves actual length!
-|Wave type|Operating frequency(Hz)|Wavelength (meters)|
-|:---:|:---:|:---:|
-|Microwave| 300MHz to 30GHz| 1 to 0.01 meter|
-|mmWave| 30GHz to 300GHz|10mm to 1mm|
+
+- Microwave | 300MHz to 30GHz | 1 to 0.01 meter
+- MM Wave | 30GHz to 300GHz | 10mm to 1mm
 
 Get it, millimeter wave.
 
