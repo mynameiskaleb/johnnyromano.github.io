@@ -23,7 +23,7 @@ Get it, millimeter wave.
 
 ### So now what's Millimeter Wave (mmWave) used for
 The easiest way I've found that it is to understand mmWave is to understand it's use through application.
-5G & Internet of things (IoT) infrastructure, self driving cars with automotive radar, cubesat satellites the size of shoeboxes are some of buzz words currently being thrown around. All use mmWave components. *NOTE: 5G, not to be confused with 5Ghz, will be operating into the 24 - 77 Ghz millimeter wave range*
+5G & Internet of things (IoT) infrastructure, self driving cars with automotive radar, cubesat satellites the size of shoeboxes are some of buzz words currently being thrown around. All use mmWave components. *NOTE: 5G, not to be confused with 5Ghz, will be operating into the 24 - 77 Ghz millimeter wave range. The latest 802.11ad Wi-Fi standard operating at 60GHz.*
 
 ### For 5G is about the bandwidth
 As we have a greater demand of connectivity, more mobile internet users, more conneccted homes, cars, and devices there's a need to send a greater volume data 'over the wire' a greater velocity. To solve that problem a smaller wave length is used that can oscilate(be generated over and over again) faster since it's smaller. With that comes a whole suite of problems concerning environment, atmosphere, system design, etc,.
