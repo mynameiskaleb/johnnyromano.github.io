@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Introduction to RF Equipment and System Design
-date: 2018-06-20 17:00:20 -0800
+date: 2018-06-20 20:00:20 -0800
 description: Introduction to RF Equipment and System Design
-img: macbook-on-table.jpg
+img: waveguide-collection.jpg
 tags: [RF, System Design]
 ---
 <!-- <img src='{{site.baseurl}}/assets/img/file.jpg' alt='file desc'> -->
