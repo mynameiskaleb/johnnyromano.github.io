@@ -26,8 +26,8 @@ Quick shout out to [www.benlcollins.com](https://www.benlcollins.com/). Without 
 
 ---
 
-Here's our sitation.<br>
->Recently you had an event and provided a sign-up list for people who wanted information about your product or service. It will be the same templated message being sent to everyone. Sitting down to email everyone you look into third party options for sending mass email blasts, but you really dont need all the extra features that you'd be paying for. Due to privacy concerns you don't want to just CC everyone on the same email, and BCC feels really unprofessional. In addition, you want add a personal touch and decide to add the recipient name in the email. This time only 12 people signed up on your list, so it's a pretty easy task. You sit down, type your tempalted email, then copy paste the first person's name and email into your message and press send. You edit and send your email for the second, third, and everyone else down the list.<br><br>At the next event things go crazy. Hundreds of people show up and sign up on your list. Now trying to manually complete your personalized email task just got exponetially more time consuming. What are you to do? No fear, Google Apps Scripts are here!
+Here's our situation.<br>
+>Recently, you had an event and provided a sign-up list for people who wanted information about your product or service. It will be the same templated message being sent to everyone. Sitting down to email everyone you look into third party options for sending mass email blasts, but you really dont need all the extra features that you'd be paying for. Due to privacy concerns you don't want to just CC everyone on the same email, and BCC feels really unprofessional. In addition, you want add a personal touch and decide to add the recipient name in the email. This time only 12 people signed up on your list, so it's a pretty easy task. You sit down, type your tempalted email, then copy paste the first person's name and email into your message and press send. You edit and send your email for the second, third, and everyone else down the list.<br><br>At the next event things go crazy. Hundreds of people show up and sign up on your list. Now trying to manually complete your personalized email task just got exponetially more time consuming. What are you to do? No fear, Google Apps Scripts are here!
 
 ---
 
@@ -90,7 +90,7 @@ Now we can test our work by inserting a logging statement as our last line and r
 
 ## 2. Creating a HTML & Plain Text Email Message
 
-Gmail supports both plain-text and HTML email. When you compose an email in Gmail is creates these for you, but since we're scripting it we'll have to handle both of those ourselves. Here is where it's helpful to have a basic understanding of HTML, but I'll try and break it down. 
+Gmail supports both plain-text and HTML email. When you compose an email in Gmail is creates these for you, but since we're scripting we'll have to handle both of those ourselves. Here is where it's helpful to have a basic understanding of HTML, but I'll try and break it down. 
 
 To start we'll put together a hard coded email template. With any email correspondence we need to add common elements like subject, salutation, recipient, our main message, valediction, and sender name. 
 
@@ -135,7 +135,7 @@ MailApp.sendEmail(recipientAddress, subject, message, {
 
 # Putting it all together
 
-Perfect, so now we have all of our components to sending an email. We have our email template, and a Google Sheet with two columns, one for first name, and one for email address. Now we need to build a loop that iterates through our list personalizing the recipient information.
+Perfect, so now we have all our components to sending an email. We have our email template, and a Google Sheet with two columns, one for first name, and one for email address. Now we need to build a loop that iterates through our list personalizing the recipient information.
 
 ~~~javascript
 function run(){
@@ -204,7 +204,7 @@ function run(){
 
 ### 3. Adding a custom send email menu button
 
-The script has to be run from the Script Editor and thats ok it's just not always so user friendly. But Google allows you to create custom menus that will show up as a new menu item. It's easy to add, simply create the following function. This will run our primary script named 'run'.
+The script must be run from the Script Editor and thats ok it's just not always so user friendly. But Google allows you to create custom menus that will show up as a new menu item. It's easy to add, simply create the following function. This will run our primary script named 'run'.
 ~~~javascript
 // Create custom menu when Spreadsheet opens
 function onOpen() {
@@ -217,7 +217,7 @@ function onOpen() {
 
 ### 4. Attaching files from Google Drive
 
-Sometimes you need to attach a file to your email. Here is a modified example of our send mail template with two pdf's from Google Drive attached.
+Sometimes you need to attach a file to your email. Here is a modified example of our send mail template with two pdfs from Google Drive attached.
 
 ~~~javascript
 // Adding Google Drive Files as attachments                                  
