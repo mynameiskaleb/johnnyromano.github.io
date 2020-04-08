@@ -152,7 +152,7 @@ function run(){
     var signatureColor = "#073763";
     var valediction = "Best Regards"
     var senderName = "Johnny Romano";
-    var senderTitle = "Automation Engineer";
+    var senderTitle = "CEO";
     
     // SET how many recipients
     var sheet = SpreadsheetApp.getActiveSheet();
