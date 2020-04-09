@@ -7,10 +7,9 @@ img: google-next-19-conf.jpg
 tags: [GCP, Professional Developement]
 ---
 <!-- <img src='{{site.baseurl}}/assets/img/file.jpg' alt='file desc'> -->
-## Google Next 2019
 
-I attended Google Next 2019 in SF!
-Google Cloud Next is where customers, partners, developers, influencers and the greater global cloud community come to get inspired and learn about Google Cloud Platform, G Suite, Maps, Devices and more great technology and solutions from across Google. Learn from customers and partners, and dive deep through hundreds of breakout sessions, code labs, demos and hands-on training.
+## I attended Google Next 2019 in SF!
+Where customers, partners, developers, influencers and the greater global cloud community come to get inspired and learn about Google Cloud Platform, G Suite, Maps, Devices and more great technology and solutions from across Google. Learn from customers and partners, and dive deep through hundreds of breakout sessions, code labs, demos and hands-on training.
 
 Unlock new opportunities for your business by interacting with the entire Google Cloud team, including our engineers, product leadership, developer advocates and more. Plus, you’ll meet lots of other cloud developers and practitioners to share stories and ideas.
 
