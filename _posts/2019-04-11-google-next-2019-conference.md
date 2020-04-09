@@ -106,10 +106,10 @@ A presentation that will explain NASA FDL’s four step plan to finding extertie
 
 The talk will go over, the four steps:
 
-Step 1: Finding Exoplanets
-Step 2: Measure the atmospheric qualities of exoplanets
-Step 3: Reverse engineer all possible planetary atmospheres
-Step 4: Determine which planets could support life
+- Step 1: Finding Exoplanets
+- Step 2: Measure the atmospheric qualities of exoplanets
+- Step 3: Reverse engineer all possible planetary atmospheres
+- Step 4: Determine which planets could support life
 
 Both speakers will be sure to highlight the fact that even though there are not technically trained on machine learning they were able to use Google Cloud tools to combine their expertise with AI and greatly push their fields forward.
 
