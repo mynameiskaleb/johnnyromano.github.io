@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book I read in college
+title: Books I read in college
 date: 2017-08-01 19:00:20 -0800
 description: A short list and description of the books I had to read in college
 img: college-books.jpg
