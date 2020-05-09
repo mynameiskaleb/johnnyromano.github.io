@@ -28,6 +28,7 @@ tags: [Precision Agriculture]
 
 ### Berlandieri Hedgehog Cactus (Echinocereus berlandieri)
 
+<img src='{{site.baseurl}}/assets/img/cactus-berlandieri-hedgehog.jpg' width="250px" height="175px">
 
 
 ---
