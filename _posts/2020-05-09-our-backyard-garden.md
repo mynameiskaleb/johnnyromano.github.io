@@ -22,8 +22,15 @@ tags: [Precision Agriculture]
 ---
 
 ### Strawberry Hedgehog Cactus (Echinocereus engelmannii)
+<img src='{{site.baseurl}}/assets/img/cactus-strawberry-hedgehog.jpg' width="250px" height="175px">
+
+---
 
 ### Berlandieri Hedgehog Cactus (Echinocereus berlandieri)
+
+
+
+---
 
 ### California Barrel Cactus (Ferocactus cylindraceus)
 
