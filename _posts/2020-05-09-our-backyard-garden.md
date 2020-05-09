@@ -1,0 +1,43 @@
+---
+layout: post
+title: Our Backyard Garden
+date: 2020-05-09 10:00:20 -0800
+description: A list of the plants from our yard
+img: backyard-garden.jpg
+tags: [Precision Agriculture]
+---
+<!-- <img src='{{site.baseurl}}/assets/img/file.jpg' alt='file desc'> -->
+
+## Cactus
+
+### Buckhorn Cholla Cactus (Cylindropuntia acanthocarpa)
+<img src='{{site.baseurl}}/assets/img/cactus-buckhorn-cholla.jpg' width="250px" height="175px">
+
+### Arizona Pencil Cholla Cactus (Cylindropuntia arbuscula)
+
+### Strawberry Hedgehog Cactus (Echinocereus engelmannii)
+
+### Berlandieri Hedgehog Cactus (Echinocereus berlandieri)
+
+### California Barrel Cactus (Ferocactus cylindraceus)
+
+### Devil's Tongue Barrel Cactus (Ferocactus latispinus)
+
+### Old Lady Pin Cushion Cactus (Mammillaria hahniana)
+
+### Indian Fig Prickly Pear Cactus (Opuntia ficus-indica)
+
+### Mexican Fence Post Cactus (Pachycereus marginatus)
+
+### Blue Torch (Pilosocereus pachycladus)
+
+### Grey Ghost Organ Pipe Cactus (Stenocereus pruinosus)
+
+### Paper Spine Cactus (Tephrocactus articulatus var. papyracanthus)
+
+
+
+
+
+
+
