@@ -35,7 +35,15 @@ tags: [Precision Agriculture]
 
 ### California Barrel Cactus (Ferocactus cylindraceus)
 
+<img src='{{site.baseurl}}/assets/img/cactus-california-barrel.jpg' width="250px" height="175px">
+
+---
+
 ### Devil's Tongue Barrel Cactus (Ferocactus latispinus)
+<img src='{{site.baseurl}}/assets/img/cactus-devils-tongue.jpg' width="250px" height="175px">
+
+
+---
 
 ### Old Lady Pin Cushion Cactus (Mammillaria hahniana)
 
