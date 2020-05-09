@@ -9,11 +9,17 @@ tags: [Precision Agriculture]
 <!-- <img src='{{site.baseurl}}/assets/img/file.jpg' alt='file desc'> -->
 
 ## Cactus
+---
 
 ### Buckhorn Cholla Cactus (Cylindropuntia acanthocarpa)
 <img src='{{site.baseurl}}/assets/img/cactus-buckhorn-cholla.jpg' width="250px" height="175px">
 
+---
+
 ### Arizona Pencil Cholla Cactus (Cylindropuntia arbuscula)
+<img src='{{site.baseurl}}/assets/img/cactus-arizona-pencil-cholla.jpg' width="250px" height="175px">
+
+---
 
 ### Strawberry Hedgehog Cactus (Echinocereus engelmannii)
 
