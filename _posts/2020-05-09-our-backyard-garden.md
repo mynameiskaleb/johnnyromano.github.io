@@ -7,6 +7,7 @@ img: backyard-garden.jpg
 tags: [Precision Agriculture]
 ---
 
+It all started with a simple spider plant and an aloe that made the trip out West with us from Chicago. Now our yard is full with plump succulents, spiky cactus, fragrant flowers, soft ground cover, winding vines, juicy fruit trees, and savory herbs. It really makes our local honeybees ([with their growing hive](jpromano.com/honeybees)), birds, moths, and butterflies happy!
 ## Cactus
 ---
 
